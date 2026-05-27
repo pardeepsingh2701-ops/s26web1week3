@@ -1,0 +1,9 @@
+body{
+    background-color:
+}
+
+/*this is a comment in css*/
+/* to target all paragraphs, make a rule for p */
+p{
+color:rgb(243, 71, 3);/*"color" means the text color*/
+}
